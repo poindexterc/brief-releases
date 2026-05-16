@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Brief</title>
+        <item>
+            <title>0.2.0</title>
+            <pubDate>Sat, 16 May 2026 17:26:09 -0400</pubDate>
+            <sparkle:version>1778966681</sparkle:version>
+            <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/poindexterc/brief-releases/releases/download/v0.2.0/Brief-0.2.0.zip" length="5770886" type="application/octet-stream" sparkle:edSignature="CfLG174QXNe77Rf1B1mFDJO5OOcnM4+/pODVLZoRAsCniHIChtLd7qpKptlYoBhvchSoMlvaR5tiopKIJIWrAQ=="/>
+        </item>
+    </channel>
+</rss>
