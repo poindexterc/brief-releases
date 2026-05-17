@@ -3,12 +3,25 @@
     <channel>
         <title>Brief</title>
         <item>
+            <title>0.2.2.1</title>
+            <pubDate>Sat, 16 May 2026 21:29:56 -0400</pubDate>
+            <sparkle:version>1778981342</sparkle:version>
+            <sparkle:shortVersionString>0.2.2.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/poindexterc/brief-releases/releases/download/v0.2.2.1/Brief-0.2.2.1.zip" length="5871237" type="application/octet-stream" sparkle:edSignature="NUJSaZNUa2GVVDJE4K/iho6MGs4mIr0qzGwuAiTro1f0KmkF4J0uak/+u9nJDtqkOtQfuquMYi1G7B2ynkitBA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/poindexterc/brief-releases/releases/download/v0.2.2.1/Brief1778981342-1778976061.delta" sparkle:deltaFrom="1778976061" length="414582" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977616" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="oMkMUQa0vsay7WtJiir2VCrziACYpyVmDtFD878RWdlmiHcZZPZyrxKj0K5+H/Y7Tobq6HZw9zprmju/4JCADA=="/>
+                <enclosure url="https://github.com/poindexterc/brief-releases/releases/download/v0.2.2.1/Brief1778981342-1778968673.delta" sparkle:deltaFrom="1778968673" length="617930" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977616" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="XXclT9UjAhif9oItO5y9AYPORxvd6NXF1uLzoAbLKrkWdCe7IGZSpPUC8LPGloBYMFI2rhYP2x+oP4saazZPDg=="/>
+                <enclosure url="https://github.com/poindexterc/brief-releases/releases/download/v0.2.2.1/Brief1778981342-1778966681.delta" sparkle:deltaFrom="1778966681" length="628874" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977616" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="cr1zYQxK8hhOsVODzMU9Dsa7fk88x+M9NTDwq7lo/SajGtru7JMAy1jDFHeFUHjJaRfFZt76XtrEr99IQfGSBA=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.2.2</title>
             <pubDate>Sat, 16 May 2026 20:02:54 -0400</pubDate>
             <sparkle:version>1778976061</sparkle:version>
             <sparkle:shortVersionString>0.2.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/poindexterc/brief-releases/releases/download/v0.2.2/Brief-0.2.2.zip" length="5842325" type="application/octet-stream" sparkle:edSignature="aVe2mIUrRnC2IrpPyhMe5hhFzBMRl50gfibJGm9/eRv5krQVNwOxOr6fpOXCFrZzjuKXiLfGNI2snOrprakTCg=="/>
+            <enclosure url="https://github.com/poindexterc/brief-releases/releases/download/v0.2.2.1/Brief-0.2.2.zip" length="5842325" type="application/octet-stream" sparkle:edSignature="aVe2mIUrRnC2IrpPyhMe5hhFzBMRl50gfibJGm9/eRv5krQVNwOxOr6fpOXCFrZzjuKXiLfGNI2snOrprakTCg=="/>
             <sparkle:deltas>
                 <enclosure url="https://github.com/poindexterc/brief-releases/releases/download/v0.2.2/Brief1778976061-1778968673.delta" sparkle:deltaFrom="1778968673" length="567678" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977616" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="ZHxvSLE7fj8pW8gmc1ZnA9gFKCE0tcj1kmHjXOquYxWHaOoGm1RLDIysjE1BxJ0RvgrQgt/gFEzCznihoiybCg=="/>
                 <enclosure url="https://github.com/poindexterc/brief-releases/releases/download/v0.2.2/Brief1778976061-1778966681.delta" sparkle:deltaFrom="1778966681" length="577642" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977616" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="W3fblD5+Giy+pdCDERm8wBLWwvvpMIgRa0EQVYwxURUldgIIZBUpCUEU1pxdxFJInw777MYDbats0kU964cVCA=="/>
@@ -20,18 +33,10 @@
             <sparkle:version>1778968673</sparkle:version>
             <sparkle:shortVersionString>0.2.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/poindexterc/brief-releases/releases/download/v0.2.2/Brief-0.2.1.zip" length="5777563" type="application/octet-stream" sparkle:edSignature="20Cfqb+ycdhgIZNVT+XGCwhlei1qZ4QaASGnjZwmYWEV1LUouQ+ozAQ6ryaoVd5Tq9ES49xczXmztrFxTJ9NCQ=="/>
+            <enclosure url="https://github.com/poindexterc/brief-releases/releases/download/v0.2.2.1/Brief-0.2.1.zip" length="5777563" type="application/octet-stream" sparkle:edSignature="20Cfqb+ycdhgIZNVT+XGCwhlei1qZ4QaASGnjZwmYWEV1LUouQ+ozAQ6ryaoVd5Tq9ES49xczXmztrFxTJ9NCQ=="/>
             <sparkle:deltas>
                 <enclosure url="https://github.com/poindexterc/brief-releases/releases/download/v0.2.1/Brief1778968673-1778966681.delta" sparkle:deltaFrom="1778966681" length="350502" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977616" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="MOFQrqOvd1vTB1FkWD4vmpiSoR3gtrZvbTuIZhmbGw69ZWJ3w1Q3P7/ijsTxoTUiOhUC6LWZX5rmad8QuKaAAA=="/>
             </sparkle:deltas>
-        </item>
-        <item>
-            <title>0.2.0</title>
-            <pubDate>Sat, 16 May 2026 17:26:09 -0400</pubDate>
-            <sparkle:version>1778966681</sparkle:version>
-            <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/poindexterc/brief-releases/releases/download/v0.2.2/Brief-0.2.0.zip" length="5770886" type="application/octet-stream" sparkle:edSignature="CfLG174QXNe77Rf1B1mFDJO5OOcnM4+/pODVLZoRAsCniHIChtLd7qpKptlYoBhvchSoMlvaR5tiopKIJIWrAQ=="/>
         </item>
     </channel>
 </rss>
