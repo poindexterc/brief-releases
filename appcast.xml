@@ -3,12 +3,27 @@
     <channel>
         <title>Brief</title>
         <item>
+            <title>0.2.3.3</title>
+            <pubDate>Sun, 21 Jun 2026 20:46:26 -0400</pubDate>
+            <sparkle:version>1782089123</sparkle:version>
+            <sparkle:shortVersionString>0.2.3.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/poindexterc/brief-releases/releases/download/v0.2.3.3/Brief-0.2.3.3.zip" length="5952755" type="application/octet-stream" sparkle:edSignature="vDa5AFAXRRSxmBnxLe5DrXXrN9x+A93UIVPQYyx+Ndf0yfDMmxhexfS05WOPSvsbThW0eznV5zj4JpvAIha3Aw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/poindexterc/brief-releases/releases/download/v0.2.3.3/Brief1782089123-1781051833.delta" sparkle:deltaFrom="1781051833" length="332366" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977616" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="y7n5ggFQFYpdfl/JdYxPyBMfLlun5dVk9oEPRRBQRUOwVqz4RTEi0gd+MVoU/abuw7LC/cnZxPhWBlSKWoTvBw=="/>
+                <enclosure url="https://github.com/poindexterc/brief-releases/releases/download/v0.2.3.3/Brief1782089123-1779736659.delta" sparkle:deltaFrom="1779736659" length="408086" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977616" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="NxXqJB4MYjeUNHsulQ9hOV4Ls3sXmGNreMs3XOMYhJ139GXEDOLPt8yjkifPnYwRdevD/6Sknd1krlM5RQVpBw=="/>
+                <enclosure url="https://github.com/poindexterc/brief-releases/releases/download/v0.2.3.3/Brief1782089123-1779229463.delta" sparkle:deltaFrom="1779229463" length="536590" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977616" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="T6vWkZKCjHrj6IcQ7sqnSeyDSxE012ioOWmc5NO9hFzIVlk71Wr8v2EtvGv86Jk/Cm0utTGwyGSnMvxqlnNIAQ=="/>
+                <enclosure url="https://github.com/poindexterc/brief-releases/releases/download/v0.2.3.3/Brief1782089123-1779113715.delta" sparkle:deltaFrom="1779113715" length="601914" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977616" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="6S0xJrfagWDrvYBFDudZNhaFx8Sj5Inevp4TFBiH+zJ7fX2fRvtXKsQktUB1dr4ODZdq81DaDm8nv26CC9Q9BA=="/>
+                <enclosure url="https://github.com/poindexterc/brief-releases/releases/download/v0.2.3.3/Brief1782089123-1778981342.delta" sparkle:deltaFrom="1778981342" length="602710" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977616" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="FsyfxnSAXejv95JifiUdjusqWA98EsJVEdEcE0pTLsT/mCLK78+TU0mkwzzv5AttxOjSxfLW9/sClcIFErMtAw=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.2.3.2</title>
             <pubDate>Tue, 09 Jun 2026 20:38:18 -0400</pubDate>
             <sparkle:version>1781051833</sparkle:version>
             <sparkle:shortVersionString>0.2.3.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/poindexterc/brief-releases/releases/download/v0.2.3.2/Brief-0.2.3.2.zip" length="5949638" type="application/octet-stream" sparkle:edSignature="b5CGKtNgpKlxN/DbK5HtJqzS4itxlrw5+vxFh95Ib9DEaqk7pA5J/Z2XtWh4elYAWSzRpqimfzAc3Q08NYU1Ag=="/>
+            <enclosure url="https://github.com/poindexterc/brief-releases/releases/download/v0.2.3.3/Brief-0.2.3.2.zip" length="5949638" type="application/octet-stream" sparkle:edSignature="b5CGKtNgpKlxN/DbK5HtJqzS4itxlrw5+vxFh95Ib9DEaqk7pA5J/Z2XtWh4elYAWSzRpqimfzAc3Q08NYU1Ag=="/>
             <sparkle:deltas>
                 <enclosure url="https://github.com/poindexterc/brief-releases/releases/download/v0.2.3.2/Brief1781051833-1779736659.delta" sparkle:deltaFrom="1779736659" length="374290" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977616" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="dfRKWgRQWsb6EUYmZksnobxX2PluK4X9uH5j3800COEeLbp2IAp6zWavE/FSNmadLdXVacSDXLyUK40meTwABQ=="/>
                 <enclosure url="https://github.com/poindexterc/brief-releases/releases/download/v0.2.3.2/Brief1781051833-1779229463.delta" sparkle:deltaFrom="1779229463" length="532622" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977616" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="VEi0wffJ1LQD/O2lwHrUJn5sjfIirCLvGtAprR0Gw82uru5UyigEeFjD4QI5GreUhogRwDY7jKFcK65J4E3SAg=="/>
@@ -23,28 +38,13 @@
             <sparkle:version>1779736659</sparkle:version>
             <sparkle:shortVersionString>0.2.3.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/poindexterc/brief-releases/releases/download/v0.2.3.2/Brief-0.2.3.1.zip" length="5946117" type="application/octet-stream" sparkle:edSignature="QjUaZsOu8mFi8YoYkSZavBaWxNvG5NOVw3pmj968eteuF+ugYt7CpaM+W82iXQtcaPuyYlNwZoRXGC0qw8/0DA=="/>
+            <enclosure url="https://github.com/poindexterc/brief-releases/releases/download/v0.2.3.3/Brief-0.2.3.1.zip" length="5946117" type="application/octet-stream" sparkle:edSignature="QjUaZsOu8mFi8YoYkSZavBaWxNvG5NOVw3pmj968eteuF+ugYt7CpaM+W82iXQtcaPuyYlNwZoRXGC0qw8/0DA=="/>
             <sparkle:deltas>
                 <enclosure url="https://github.com/poindexterc/brief-releases/releases/download/v0.2.3.1/Brief1779736659-1779229463.delta" sparkle:deltaFrom="1779229463" length="502246" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977616" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="lJcGS6Kw2lDKRlWHXJC6+p3xuhbBkaw18r8dmejgtSVmbuo8xAxKDHnaZ4kCpQiunC6vvfb8MoZRGjJUe1CoCg=="/>
                 <enclosure url="https://github.com/poindexterc/brief-releases/releases/download/v0.2.3.1/Brief1779736659-1779113715.delta" sparkle:deltaFrom="1779113715" length="567134" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977616" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="8Gnlx+OQ7/8VCS8mnNuSzsOfBPiffSkXFPYHWwSBISFzxqr+zJTKRbofFFW5cqDnRTkCkB3q5pDnIoWOOcFMBg=="/>
                 <enclosure url="https://github.com/poindexterc/brief-releases/releases/download/v0.2.3.1/Brief1779736659-1778981342.delta" sparkle:deltaFrom="1778981342" length="567090" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977616" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="aZY9h3diZr+/xOaFCLHK5SNzdM7QnHsB2hjbDml6t2cKQ8BtXK9GCRCje/ExfamW0yTEUasVRu9+2hKwUex1Dg=="/>
                 <enclosure url="https://github.com/poindexterc/brief-releases/releases/download/v0.2.3.1/Brief1779736659-1778976061.delta" sparkle:deltaFrom="1778976061" length="609950" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977616" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="PhqMHLWL9XFgdbjZltLwJePJM2SuEFs43eXa5wsVhTA4ArH2D9xfnOyfExcm3n0wqmSIMIl9OefXF/49p6xlBw=="/>
                 <enclosure url="https://github.com/poindexterc/brief-releases/releases/download/v0.2.3.1/Brief1779736659-1778968673.delta" sparkle:deltaFrom="1778968673" length="748478" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977616" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="EBwebmykvx05ppUNISslTlYUDk1djJ/GE+UyUXIKQ4qmPwqmVgRbjr1iTz44QYPAg0Tz3mY37FY252PezV1nDw=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>0.2.3</title>
-            <pubDate>Tue, 19 May 2026 18:25:20 -0400</pubDate>
-            <sparkle:version>1779229463</sparkle:version>
-            <sparkle:shortVersionString>0.2.3</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/poindexterc/brief-releases/releases/download/v0.2.3.2/Brief-0.2.3.zip" length="5914469" type="application/octet-stream" sparkle:edSignature="wnyMgRWVDutuf95zqpe5vmno8lfLoPfS5OkbekXGY0EJmxj4jbxyg3Mu/Kgc5dehhavb2DFf2w9PZUzIQZ7TCg=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/poindexterc/brief-releases/releases/download/v0.2.3/Brief1779229463-1779113715.delta" sparkle:deltaFrom="1779113715" length="468822" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977616" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="fduUDsXCwW/uqshD/6mOuWF6TRUZ/vkmIbalMgT6Se/9M/hZa2hop9WWl/Bqy7KYOFakowf1vxWps9MzPWElCQ=="/>
-                <enclosure url="https://github.com/poindexterc/brief-releases/releases/download/v0.2.3/Brief1779229463-1778981342.delta" sparkle:deltaFrom="1778981342" length="469366" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977616" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="zh4owOx7fgjloHRaVnyEXbDxuybMdwE1eBWoCRJLAkBR4oUoZ71COIigOnVoMufejZgNDGd04jgnEqiwAD+ZBw=="/>
-                <enclosure url="https://github.com/poindexterc/brief-releases/releases/download/v0.2.3/Brief1779229463-1778976061.delta" sparkle:deltaFrom="1778976061" length="536086" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977616" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="4lv56dkcHk3trsSzFvFFZe7N6a4OJUl4lIz+kcuOcrBjweRShs2JxDZZ6WSeF5NYYKxPfi1vfP226RS+LOAYCQ=="/>
-                <enclosure url="https://github.com/poindexterc/brief-releases/releases/download/v0.2.3/Brief1779229463-1778968673.delta" sparkle:deltaFrom="1778968673" length="685394" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977616" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="20Raha4Tukv70YDIKWWuBavM35Y5Zft3TfAJPS2ckKEljoSvgvt4c5vIMD70uQf1czyffFBFSHS5Pb0ZxsJ5BQ=="/>
-                <enclosure url="https://github.com/poindexterc/brief-releases/releases/download/v0.2.3/Brief1779229463-1778966681.delta" sparkle:deltaFrom="1778966681" length="697102" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977616" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="mWfwUNibh5gnDXDmnWQIptbc46SZnsLfh4QuG0hP7geCyQ0YST0NtMeTjrAer81M3Q2t+zK9KUj0KVZ6gfuyBg=="/>
             </sparkle:deltas>
         </item>
     </channel>
